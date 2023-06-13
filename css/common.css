@@ -22,3 +22,9 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+.gallery img {
+  width: 600px;
+  height: 300px;
+  object-fit: cover;
+  object-position:center;
+}
